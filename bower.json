@@ -1,0 +1,26 @@
+{
+  "name": "geojson-editor",
+  "homepage": "https://github.com/ibrahimawadhamid/geojson-editort",
+  "authors": [
+    "Ibrahim Awad"
+  ],
+  "description": "GeoJSON Online Editor",
+  "main": "public/index.html",
+  "keywords": [
+    "geojson",
+    "editor",
+    "gis",
+    "tool",
+    "online"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build"
+  ],
+  "private": true
+}
